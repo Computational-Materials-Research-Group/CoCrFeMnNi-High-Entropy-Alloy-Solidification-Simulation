@@ -140,8 +140,8 @@ sudo apt-get install paraview
 ### Step 3: Clone This Repository
 
 ```bash
-git clone https://github.com/akshansh11/HEA-Solidification-OpenFOAM.git
-cd HEA-Solidification-OpenFOAM
+git clone https://github.com/Computational-Materials-Research-Group/CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation.git
+cd CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation
 ```
 
 ---
@@ -488,20 +488,6 @@ Edit `constant/thermophysicalProperties` and `constant/fvOptions` to change:
 - [ParaView Guide](https://www.paraview.org/documentation/)
 - [solidificationMeltingSource Documentation](https://cpp.openfoam.org/v6/classFoam_1_1fv_1_1solidificationMeltingSource.html)
 
-### Scientific Background
-
-#### High Entropy Alloys
-
-- Otto et al. (2013) - "The influences of temperature and microstructure on mechanical properties of CoCrFeMnNi"
-- Gludovatz et al. (2014) - "A fracture-resistant high-entropy alloy for cryogenic applications"
-- Zhang et al. (2014) - "Microstructures and properties of high-entropy alloys"
-
-#### Solidification Modeling
-
-- Voller & Prakash (1987) - "A fixed grid numerical modeling methodology for convection-diffusion mushy region phase-change problems"
-- Swaminathan & Voller (1992) - "A general enthalpy method for modeling solidification processes"
-- Beckermann & Viskanta (1988) - "Mathematical modeling of transport phenomena during alloy solidification"
-
 ---
 
 ## Contributing
@@ -517,8 +503,8 @@ Contributions are welcome! This project is open for improvements and extensions.
 
 2. **Clone Your Fork**
    ```bash
-   git clone https://github.com/[YourUsername]/HEA-Solidification-OpenFOAM.git
-   cd HEA-Solidification-OpenFOAM
+   git clone https://github.com/[YourUsername]/CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation.git
+   cd CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation
    ```
 
 3. **Create a Branch**
@@ -621,7 +607,7 @@ If you use this work in academic research, please cite:
   title = {CoCrFeMnNi High Entropy Alloy Solidification Simulation using OpenFOAM},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/akshansh11/HEA-Solidification-OpenFOAM},
+  url = {https://github.com/Computational-Materials-Research-Group/CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation},
   note = {Licensed under CC BY-NC 4.0}
 }
 ```
@@ -636,15 +622,9 @@ If you use this work in academic research, please cite:
 - **ParaView** - For visualization capabilities
 - **Python Community** - For scripting tools
 
-### Research Community
+### Community
 
-- Materials science researchers working on high entropy alloys
-- Computational fluid dynamics community
-- Open-source software contributors
-
-### References
-
-This project builds upon established methods in computational solidification modeling and leverages the extensive capabilities of the OpenFOAM platform. Special thanks to the researchers who developed and validated the enthalpy-porosity method for phase change modeling.
+This project builds upon established methods in computational solidification modeling and leverages the extensive capabilities of the OpenFOAM platform.
 
 ---
 
@@ -652,9 +632,9 @@ This project builds upon established methods in computational solidification mod
 
 ### Getting Help
 
-- **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/akshansh11/HEA-Solidification-OpenFOAM/issues)
-- **Discussions**: Join the conversation in [GitHub Discussions](https://github.com/akshansh11/HEA-Solidification-OpenFOAM/discussions)
-- **Documentation**: Check the [Wiki](https://github.com/akshansh11/HEA-Solidification-OpenFOAM/wiki) for detailed guides
+- **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/Computational-Materials-Research-Group/CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation/issues)
+- **Discussions**: Join the conversation in [GitHub Discussions](https://github.com/Computational-Materials-Research-Group/CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation/discussions)
+- **Documentation**: Check the [Wiki](https://github.com/Computational-Materials-Research-Group/CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation/wiki) for detailed guides
 
 ### Community
 
@@ -689,8 +669,8 @@ This project builds upon established methods in computational solidification mod
 
 **Star this repository if you find it useful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/akshansh11/HEA-Solidification-OpenFOAM?style=social)](https://github.com/akshansh11/HEA-Solidification-OpenFOAM)
-[![GitHub forks](https://img.shields.io/github/forks/akshansh11/HEA-Solidification-OpenFOAM?style=social)](https://github.com/akshansh11/HEA-Solidification-OpenFOAM/fork)
+[![GitHub stars](https://img.shields.io/github/stars/Computational-Materials-Research-Group/CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation?style=social)](https://github.com/Computational-Materials-Research-Group/CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation)
+[![GitHub forks](https://img.shields.io/github/forks/Computational-Materials-Research-Group/CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation?style=social)](https://github.com/Computational-Materials-Research-Group/CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation/fork)
 
 ---
 

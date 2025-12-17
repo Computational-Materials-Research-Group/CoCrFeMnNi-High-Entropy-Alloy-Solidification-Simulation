@@ -1,0 +1,1 @@
+# CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation

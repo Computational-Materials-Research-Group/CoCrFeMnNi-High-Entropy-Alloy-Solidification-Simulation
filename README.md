@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Solidification Animation](High_Entropy_Alloy_Solidification.gif)
+
 ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-v2412-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-green?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange?style=for-the-badge)
@@ -614,10 +616,10 @@ For the full legal text, see: https://creativecommons.org/licenses/by-nc/4.0/leg
 If you use this work in academic research, please cite:
 
 ```bibtex
-@software{mishra2024hea_solidification,
+@software{mishra2025hea_solidification,
   author = {Mishra, Akshansh},
   title = {CoCrFeMnNi High Entropy Alloy Solidification Simulation using OpenFOAM},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
   url = {https://github.com/akshansh11/HEA-Solidification-OpenFOAM},
   note = {Licensed under CC BY-NC 4.0}
@@ -663,7 +665,7 @@ This project builds upon established methods in computational solidification mod
 
 ## Project Status
 
-**Current Version**: 1.0.0 (December 2024)
+**Current Version**: 1.0.0 (December 2025)
 
 **Status**: Active Development
 
@@ -692,6 +694,6 @@ This project builds upon established methods in computational solidification mod
 
 ---
 
-Copyright © 2024 Akshansh Mishra | Licensed under CC BY-NC 4.0
+Copyright © 2025 Akshansh Mishra | Licensed under CC BY-NC 4.0
 
 </div>

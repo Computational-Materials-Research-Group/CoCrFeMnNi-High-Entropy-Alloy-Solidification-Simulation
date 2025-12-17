@@ -152,7 +152,7 @@ cd CoCrFeMnNi-High-Entropy-Alloy-Solidification-Simulation
 
 ```bash
 # Run the Python setup script
-python3 setup_hea_solidification_FINAL_WORKING.py
+python3 setup_hea_solidification.py
 
 # Navigate to the created case
 cd HEA_Solidification
@@ -497,9 +497,6 @@ Contributions are welcome! This project is open for improvements and extensions.
 ### How to Contribute
 
 1. **Fork the Repository**
-   ```bash
-   # Click 'Fork' button on GitHub
-   ```
 
 2. **Clone Your Fork**
    ```bash
@@ -556,7 +553,8 @@ Contributions are welcome! This project is open for improvements and extensions.
 **Akshansh Mishra**
 
 - GitHub: [@akshansh11](https://github.com/akshansh11)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/akshansh-mishra)
+- Organization: [@Computational-Materials-Research-Group](https://github.com/Computational-Materials-Research-Group)
+- LinkedIn: [https://www.linkedin.com/in/akshansh11/](https://www.linkedin.com/in/akshansh11/)
 
 ### About the Project
 
